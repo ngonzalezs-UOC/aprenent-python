@@ -1,4 +1,4 @@
-# Programació per a la ciència de dades... aprenent python!
+# Aprenent python!
 
 ## Context
 
