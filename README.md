@@ -31,12 +31,12 @@ L'objectiu és la realització d'una pràctica que consolidi els coneixements tr
 ```
 - **pac/data/BMI\*.csv**: Datasets d'entrada corresponents a dades sobre l'IMC descarregades de la web de l'INE.
 - **pac/data/\*players.csv**: Datasets d'entrada corresponents al joc FIFA obtinguts de kaggle via UOC.
-- **pac/outputs/\*.png**: Gràfiques generades per l'execució del projecte.
+- **pac/outputs/\*.png**: Gràfiques generades per l'execució del programa.
 - **pac/tests/test_\*.py**: Fitxers de test unitaris del projecte.
 - **Informe_PAC4.pdf**: Document amb l'informe requerit a la PAC4.
 - **LICENSE.txt**: Fitxer amb els termes de la llicència aplicada al projecte.
 - **README.md**: Fitxer explicatiu del projecte.
-- **requirements.txt**: Fitxer amb l'inventari de llibreries python necessàries per executar el projecte.
+- **requirements.txt**: Fitxer amb l'inventari de llibreries python necessàries per executar el programa.
 
 ## Execució del programa
 
@@ -54,7 +54,11 @@ L'objectiu és la realització d'una pràctica que consolidi els coneixements tr
 
 El programa genera dos tipus de sortida:
 - Informació de text, que es mostra en el terminal
-- Gràfiques, que es mostren en finestres emergents i, addicionalment, es desen a la carpeta 'pac/outputs/'
+- Gràfiques, que es mostren en finestres emergents i, addicionalment, es desen a la carpeta '/aprenent-python/pac/outputs/'
+
+### Document d'Informe de la PAC4
+
+Aquest document s'anoment *Informe_PAC4.pdf* i es troba a la carpeta arrel del projecte '/aprenent-python/'
 
 ## Autoria
 
