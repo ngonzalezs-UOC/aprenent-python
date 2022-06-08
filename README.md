@@ -38,7 +38,23 @@ L'objectiu és la realització d'una pràctica que consolidi els coneixements tr
 - **README.md**: Fitxer explicatiu del projecte.
 - **requirements.txt**: Fitxer amb l'inventari de llibreries python necessàries per executar el projecte.
 
-## Instal·lació
+## Execució del programa
+
+### Instruccions per executar PAC4_main.py
+
+1. Obrir un terminal i situar-se al directori (carpeta) destinat al projecte
+2. git clone https://github.com/ngonzalezs-UOC/aprenent-python.git
+3. cd ./aprenent-python
+4. \[opcional] Crear un entorn virtual i activar-lo
+5. pip install -r requirements.txt
+6. cd ./pac
+7. python3 ./PAC4_main.py
+
+### Sortides del programa
+
+El programa genera dos tipus de sortida:
+- Informació de text, que es mostra en el terminal
+- Gràfiques, que es mostren en finestres emergents i, addicionalment, es desen a la carpeta 'pac/outputs/'
 
 ## Autoria
 
