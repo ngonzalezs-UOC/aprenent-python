@@ -34,8 +34,8 @@ L'objectiu és la realització d'una pràctica que consolidi els coneixements tr
 ```
 - **pac/data/BMI\*.csv**: Datasets d'entrada corresponents a dades sobre l'IMC descarregades de la web de l'INE.
 - **pac/data/\*players.csv**: Datasets d'entrada corresponents al joc FIFA obtinguts de kaggle via UOC.
-- **pac/outputs/\*.png**: Gràfiques generades per l'execució del project.
-- **pac/tests/test_\*.py**: Fitxers de test unitaris del projecte
+- **pac/outputs/\*.png**: Gràfiques generades per l'execució del projecte.
+- **pac/tests/test_\*.py**: Fitxers de test unitaris del projecte.
 - **Informe_PAC4.pdf**: Document amb l'informe requerit a la PAC4.
 - **LICENSE.txt**: Fitxer amb els termes de la llicència aplicada al projecte.
 - **README.md**: Fitxer explicatiu del projecte.
