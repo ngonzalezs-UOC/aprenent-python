@@ -54,11 +54,11 @@ L'objectiu és la realització d'una pràctica que consolidi els coneixements tr
 
 El programa genera dos tipus de sortida:
 - Informació de text, que es mostra en el terminal
-- Gràfiques, que es mostren en finestres emergents i, addicionalment, es desen a la carpeta '/aprenent-python/pac/outputs/'
+- Gràfiques, que es mostren en finestres emergents i, addicionalment, es desen a la carpeta `/aprenent-python/pac/outputs/`
 
 ### Document d'Informe de la PAC4
 
-Aquest document s'anoment *Informe_PAC4.pdf* i es troba a la carpeta arrel del projecte '/aprenent-python/'
+Aquest document s'anoment *Informe_PAC4.pdf* i es troba a la carpeta arrel del projecte */aprenent-python/*
 
 ## Autoria
 
