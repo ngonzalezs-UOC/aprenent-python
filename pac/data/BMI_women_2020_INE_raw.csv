@@ -1,0 +1,33 @@
+Sex;Age;Adult body mass index;Total
+Women;From 18 to 24 years old;Underweight (BMI < 18.5 kg/m2);131.4
+Women;From 18 to 24 years old;Normal weight (18.5 kg/m2 <= BMI < 25 kg/m2);1,029.9
+Women;From 18 to 24 years old;Overweight (25 kg/m2 <= BMI < 30 kg/m2);251.3
+Women;From 18 to 24 years old;Obesity (BMI >= 30 kg/m2);68.9
+Women;From 25 to 34 years old;Underweight (BMI < 18.5 kg/m2);163.1
+Women;From 25 to 34 years old;Normal weight (18.5 kg/m2 <= BMI < 25 kg/m2);1,615.8
+Women;From 25 to 34 years old;Overweight (25 kg/m2 <= BMI < 30 kg/m2);506.9
+Women;From 25 to 34 years old;Obesity (BMI >= 30 kg/m2);261.1
+Women;From 35 to 44 years old;Underweight (BMI < 18.5 kg/m2);117.6
+Women;From 35 to 44 years old;Normal weight (18.5 kg/m2 <= BMI < 25 kg/m2);2,037.9
+Women;From 35 to 44 years old;Overweight (25 kg/m2 <= BMI < 30 kg/m2);907.3
+Women;From 35 to 44 years old;Obesity (BMI >= 30 kg/m2);463.4
+Women;From 45 to 54 years old;Underweight (BMI < 18.5 kg/m2);56.9
+Women;From 45 to 54 years old;Normal weight (18.5 kg/m2 <= BMI < 25 kg/m2);1,883.0
+Women;From 45 to 54 years old;Overweight (25 kg/m2 <= BMI < 30 kg/m2);1,104.3
+Women;From 45 to 54 years old;Obesity (BMI >= 30 kg/m2);548.0
+Women;From 55 to 64 years old;Underweight (BMI < 18.5 kg/m2);74.0
+Women;From 55 to 64 years old;Normal weight (18.5 kg/m2 <= BMI < 25 kg/m2);1,287.1
+Women;From 55 to 64 years old;Overweight (25 kg/m2 <= BMI < 30 kg/m2);1,121.0
+Women;From 55 to 64 years old;Obesity (BMI >= 30 kg/m2);567.1
+Women;From 65 to 74 years old;Underweight (BMI < 18.5 kg/m2);22.9
+Women;From 65 to 74 years old;Normal weight (18.5 kg/m2 <= BMI < 25 kg/m2);836.4
+Women;From 65 to 74 years old;Overweight (25 kg/m2 <= BMI < 30 kg/m2);965.4
+Women;From 65 to 74 years old;Obesity (BMI >= 30 kg/m2);510.5
+Women;From 75 to 84 years old;Underweight (BMI < 18.5 kg/m2);22.7
+Women;From 75 to 84 years old;Normal weight (18.5 kg/m2 <= BMI < 25 kg/m2);479.5
+Women;From 75 to 84 years old;Overweight (25 kg/m2 <= BMI < 30 kg/m2);593.3
+Women;From 75 to 84 years old;Obesity (BMI >= 30 kg/m2);336.0
+Women;Aged 85 years old and over;Underweight (BMI < 18.5 kg/m2);24.2
+Women;Aged 85 years old and over;Normal weight (18.5 kg/m2 <= BMI < 25 kg/m2);290.8
+Women;Aged 85 years old and over;Overweight (25 kg/m2 <= BMI < 30 kg/m2);261.0
+Women;Aged 85 years old and over;Obesity (BMI >= 30 kg/m2);148.1
