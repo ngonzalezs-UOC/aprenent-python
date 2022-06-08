@@ -13,36 +13,33 @@ L'objectiu és la realització d'una pràctica que consolidi els coneixements tr
 ```bash
 ────aprenent-python
     │
+    ├───pac
+    │   │     
+    │   │
+    │   ├───data
+    │   │       BMI*.csv
+    │   │       *players.csv
+    │   │
+    │   ├───outputs
+    │   │       *.png
+    │   │
+    │   └───tests
+    │           test_*.py
+    │
+    ├───Informe_PAC4.pdf
     ├───LICENSE.txt
     ├───README.md
-    ├───requirements.txt
-    │
-    └───pac
-        │     
-        │
-        ├───data
-        │       BMI*.csv
-        │       *players.csv
-        │
-        ├───outputs
-        │       *.png
-        │
-        └───tests
-                test_*.py
+    └───requirements.txt
 
 ```
-- **Informe_PAC4.pdf**: Document amb l'informe requerit a la PAC4.
-- **LICENSE**: Fitxer amb els termes de la llicència aplicada al projecte.
-- **README.md**: Fitxer explicatiu del projecte.
-- **requirements.txt**: Fitxer amb l'inventari de llibreries python necessàries per executar el projecte.
-- 
 - **pac/data/BMI\*.csv**: Datasets d'entrada corresponents a dades sobre l'IMC facilitades per l'INE.
 - **pac/data/\*players.csv**: Datasets d'entrada corresponents al joc FIFA obtinguts de kaggle via UOC.
-
 - **pac/outputs/\*.png**: Gràfiques generades per l'execució del project.
-
 - **pac/tests/test_\*.py**: Fitxers de test unitaris del projecte
-
+- **Informe_PAC4.pdf**: Document amb l'informe requerit a la PAC4.
+- **LICENSE.txt**: Fitxer amb els termes de la llicència aplicada al projecte.
+- **README.md**: Fitxer explicatiu del projecte.
+- **requirements.txt**: Fitxer amb l'inventari de llibreries python necessàries per executar el projecte.
 
 ## Autoria
 
