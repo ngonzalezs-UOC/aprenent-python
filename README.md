@@ -6,9 +6,6 @@ Els elements d'aquest repositori constitueixen la resposta a la PAC 4 de l'assig
 
 L'objectiu és la realització d'una pràctica que consolidi els coneixements treballats durant el semestre en l'àmbit de l'aprenentatge del llenguatge python, a partir d'una temàtica i unes dades pròpies de la ciència de dades, i fent ús d'eines àmpliament emprades a dia d'avui com són PyCharm i Github.
 
-## Instal·lació
-
-
 ## Repositori 
 ```bash
 ────aprenent-python
@@ -40,6 +37,8 @@ L'objectiu és la realització d'una pràctica que consolidi els coneixements tr
 - **LICENSE.txt**: Fitxer amb els termes de la llicència aplicada al projecte.
 - **README.md**: Fitxer explicatiu del projecte.
 - **requirements.txt**: Fitxer amb l'inventari de llibreries python necessàries per executar el projecte.
+
+## Instal·lació
 
 ## Autoria
 
