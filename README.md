@@ -61,7 +61,7 @@ El projecte es troba en [aquest repositori públic de GitHub](https://github.com
 
     o alternativament 
     
-    `python3 ./pac4_main.py -m`&nbsp;*mostra un menu per seleccionar l'exercici específic a executar*
+    `python3 ./pac4_main.py -m`&emsp;*mostra un menu per seleccionar l'exercici específic a executar*
 
 ### Sortides del programa
 
