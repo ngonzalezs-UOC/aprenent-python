@@ -30,7 +30,7 @@ L'objectiu és la realització d'una pràctica que consolidi els coneixements tr
 
 ```
 - **pac/data/BMI\*.csv**: Datasets d'entrada corresponents a dades sobre l'IMC descarregades de la web de l'INE.
-- **pac/data/\*players.csv**: Datasets d'entrada corresponents al joc FIFA obtinguts de kaggle via UOC.
+- **pac/data/\*players.csv**: Datasets d'entrada corresponents al joc FIFA obtinguts de [kaggle](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset) via UOC.
 - **pac/outputs/\*.png**: Gràfiques generades per l'execució del programa.
 - **pac/tests/test_\*.py**: Fitxers de test unitaris del projecte.
 - **Informe_PAC4.pdf**: Document amb l'informe requerit a la PAC4.
