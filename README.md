@@ -60,7 +60,7 @@ El programa genera dos tipus de sortides:
 
 ### Document d'Informe de la PAC4
 
-Aquest document s'anoment **Informe_PAC4.pdf** i es troba a la carpeta arrel del projecte `/aprenent-python/`
+L'exercici 6 de la PAC4 exigeix l'elaboració d'un informe. Aquest document s'anomena **Informe_PAC4.pdf** i es troba a la carpeta arrel del projecte `/aprenent-python/`
 
 ## Autoria
 
