@@ -42,8 +42,8 @@ El projecte es troba en [aquest repositori públic de GitHub](https://github.com
 - **pac/tests/test_\*.py**: Fitxers de test unitaris del projecte.
 - **Enunciat_PAC4.pdf**: Document amb l'enunciat de la PAC4.
 - **Informe_PAC4.pdf**: Document amb l'informe requerit a la PAC4.
-- **LICENSE.txt**: Fitxer amb els termes de la llicència aplicada al projecte.
-- **README.md**: Fitxer explicatiu del projecte.
+- **LICENSE.txt**: Document amb els termes de la llicència aplicada al projecte.
+- **README.md**: Document explicatiu del projecte.
 - **banner-readme.png**: Imatge (banner) incrustada a la capçalera del fitxer README.md.
 - **requirements.txt**: Fitxer amb l'inventari de llibreries python necessàries per executar el programa.
 
