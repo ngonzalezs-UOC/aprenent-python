@@ -10,7 +10,7 @@ L'objectiu és la realització d'una pràctica que consolidi els coneixements tr
 
 ## Repositori
 
-El projecte es troba en [aquest repositori públic de GitHub](https://github.com/ngonzalezs-UOC/aprenent-python), i l'estructura del repositori és la següent: 
+El projecte es troba en [aquest repositori públic de GitHub](https://github.com/ngonzalezs-UOC/aprenent-python), i la seva estructura és la següent: 
 
 ```bash
 ────aprenent-python
