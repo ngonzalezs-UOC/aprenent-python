@@ -40,7 +40,7 @@ L'objectiu és la realització d'una pràctica que consolidi els coneixements tr
 
 ## Execució del programa
 
-### Instruccions per executar PAC4_main.py
+### Instruccions per executar *pac4_main.py*
 
 1. `Obrir un terminal i situar-se al directori (carpeta) destinat al projecte`
 2. `git clone https://github.com/ngonzalezs-UOC/aprenent-python.git`
@@ -48,7 +48,7 @@ L'objectiu és la realització d'una pràctica que consolidi els coneixements tr
 4. `[opcional] Crear un entorn virtual i activar-lo`
 5. `pip install -r requirements.txt`
 6. `cd ./pac`
-7. `python3 ./PAC4_main.py`
+7. `python3 ./pac4_main.py`
 
 ### Sortides del programa
 
