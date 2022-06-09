@@ -4,7 +4,7 @@
 
 Els elements d'aquest repositori constitueixen la resposta a la PAC 4 de l'assignatura *Programació per a la ciència de dades* del *Màster en Ciència de Dades* de la [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/ca/index.html) (UOC), corresponent al segon semestre del curs 2021-2022.
 
-L'objectiu és la realització d'una pràctica que consolidi els coneixements treballats durant el semestre en l'àmbit de l'aprenentatge del llenguatge python, a partir d'una temàtica i unes dades pròpies de la ciència de dades, i fent ús d'eines àmpliament emprades a dia d'avui com són PyCharm i Github.
+L'objectiu és la realització d'una pràctica que consolidi els coneixements treballats durant el semestre en l'àmbit de l'aprenentatge del llenguatge de programació python (python3), a partir d'una temàtica i unes dades pròpies de la ciència de dades, i fent ús d'eines àmpliament emprades a dia d'avui com són PyCharm i Github.
 
 ## Repositori 
 ```bash
@@ -30,7 +30,7 @@ L'objectiu és la realització d'una pràctica que consolidi els coneixements tr
     └───requirements.txt
 
 ```
-- **pac/data/BMI\*.csv**: Datasets d'entrada corresponents a dades sobre l'IMC descarregades de la web de l'INE.
+- **pac/data/BMI\*.csv**: Datasets d'entrada corresponents a dades sobre l'IMC descarregades de la [web de l'INE](https://www.ine.es/jaxiPx/Tabla.htm?path=/t15/p420/a2019/p03/l0/&file=01001.px&L=1).
 - **pac/data/\*players.csv**: Datasets d'entrada corresponents al joc FIFA obtinguts de [kaggle](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset) via UOC.
 - **pac/outputs/\*.png**: Gràfiques generades per l'execució del programa.
 - **pac/tests/test_\*.py**: Fitxers de test unitaris del projecte.
