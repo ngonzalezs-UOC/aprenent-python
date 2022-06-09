@@ -1,5 +1,7 @@
 # Aprenent python!
 
+![img.png](banner-readme.png)
+
 ## Context
 
 Els elements d'aquest repositori constitueixen la resposta a la PAC 4 de l'assignatura *Programació per a la ciència de dades* del *Màster en Ciència de Dades* de la [Universitat Oberta de Catalunya](https://www.uoc.edu/portal/ca/index.html) (UOC), corresponent al segon semestre del curs 2021-2022.
