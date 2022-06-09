@@ -6,7 +6,10 @@ Els elements d'aquest repositori constitueixen la resposta a la PAC 4 de l'assig
 
 L'objectiu és la realització d'una pràctica que consolidi els coneixements treballats durant el semestre en l'àmbit de l'aprenentatge del llenguatge de programació python (python3), a partir d'una temàtica i unes dades pròpies de la ciència de dades, i fent ús d'eines àmpliament emprades a dia d'avui com són PyCharm i Github.
 
-## Repositori 
+## Repositori
+
+El projecte es troba en [aquest repositori públic de GitHub](https://github.com/ngonzalezs-UOC/aprenent-python), i la seva estructura es detalla a continuació: 
+
 ```bash
 ────aprenent-python
     │
