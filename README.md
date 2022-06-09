@@ -32,6 +32,7 @@ El projecte es troba en [aquest repositori públic de GitHub](https://github.com
     ├───Informe_PAC4.pdf
     ├───LICENSE.txt
     ├───README.md
+    ├───banner-readme.png
     └───requirements.txt
 
 ```
@@ -43,6 +44,7 @@ El projecte es troba en [aquest repositori públic de GitHub](https://github.com
 - **Informe_PAC4.pdf**: Document amb l'informe requerit a la PAC4.
 - **LICENSE.txt**: Fitxer amb els termes de la llicència aplicada al projecte.
 - **README.md**: Fitxer explicatiu del projecte.
+- **banner-readme.png**: Imatge (banner) incrustada a la capçalera del fitxer README.md.
 - **requirements.txt**: Fitxer amb l'inventari de llibreries python necessàries per executar el programa.
 
 ## Execució del programa
