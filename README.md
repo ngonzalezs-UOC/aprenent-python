@@ -23,6 +23,7 @@ L'objectiu és la realització d'una pràctica que consolidi els coneixements tr
     │   └───tests
     │           test_*.py
     │
+    ├───Enunciat_PAC4.pdf
     ├───Informe_PAC4.pdf
     ├───LICENSE.txt
     ├───README.md
@@ -33,6 +34,7 @@ L'objectiu és la realització d'una pràctica que consolidi els coneixements tr
 - **pac/data/\*players.csv**: Datasets d'entrada corresponents al joc FIFA obtinguts de [kaggle](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset) via UOC.
 - **pac/outputs/\*.png**: Gràfiques generades per l'execució del programa.
 - **pac/tests/test_\*.py**: Fitxers de test unitaris del projecte.
+- **Enunciat_PAC4.pdf**: Document amb l'enunciat de la PAC4.
 - **Informe_PAC4.pdf**: Document amb l'informe requerit a la PAC4.
 - **LICENSE.txt**: Fitxer amb els termes de la llicència aplicada al projecte.
 - **README.md**: Fitxer explicatiu del projecte.
