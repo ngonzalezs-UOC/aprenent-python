@@ -71,11 +71,10 @@ El projecte es troba en [aquest repositori públic de GitHub](https://github.com
 
 1. `Obrir un terminal i situar-se al directori (carpeta) destinat al projecte`
 2. `git clone https://github.com/ngonzalezs-UOC/aprenent-python.git`
-3. `cd ./aprenent-python`
+3. `cd ./aprenent-python/pac`
 4. `[opcional] Crear un entorn virtual i activar-lo`
 5. `pip install -r requirements.txt`
-6. `cd ./pac`
-7. `python3 ./pac4_main.py`&emsp;&emsp;&emsp;*(executa seqüencialment tots els exercicis)*
+6. `python3 ./pac4_main.py`&emsp;&emsp;&emsp;*(executa seqüencialment tots els exercicis)*
 
     o alternativament 
     
